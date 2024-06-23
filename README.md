@@ -1,4 +1,9 @@
 # Data-Mining-in-Financial-Data
+
+![bull1](https://github.com/hbhavane/Data-Mining-in-Financial-Data/assets/78750775/806d4bb6-432a-472a-9731-0a2a9b54b65c)
+
+
+
 ### Problem I am trying to solve
 
 Using Pandas to extract and analyse the information, visualise it, and look at different ways to analyse the risk of a stock, based on its performance history.
